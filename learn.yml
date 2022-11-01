@@ -1,0 +1,14 @@
+name : Ashif Ahmed
+learn : Yaml for Devops 
+---
+Server :
+  name : AWS
+  container : Docker
+  ...
+  Motivation :
+    -IWTHP
+    -Good carrier
+  list_servers :
+    -Server1 :
+     name : Ec2
+     volume : 8
